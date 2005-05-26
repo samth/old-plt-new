@@ -1,5 +1,0 @@
-(module info (lib "infotab.ss" "setup")
-  (define name "Repository Time Stamp")
-  (define doc.txt "doc.txt")
-  (define tools (list "time-stamp.ss"))
-  (define tool-names (list "Repository Time Stamp")))

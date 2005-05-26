@@ -1,5 +1,0 @@
-(module info (lib "infotab.ss" "setup")
-  (define name "Parcheesi")
-  (define doc.txt "doc.txt")
-  (define game "parcheesi.ss")
-  (define game-set "Board Games"))

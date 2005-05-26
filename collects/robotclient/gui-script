@@ -1,4 +1,0 @@
-#!/home/cs/grad/sowens/plt/bin/mred -rq
-
-(require "simple-gui.ss")
-(parse-input (current-input-port))

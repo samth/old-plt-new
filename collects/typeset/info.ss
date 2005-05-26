@@ -1,7 +1,0 @@
-(module info (lib "infotab.ss" "setup")
-  (define name "Typeset")
-  (define compile-omit-files '("tool-sig.ss" "utils.ss" "tool.ss"))
-  ;(define tools (list "tool.ss"))
-  ;(define tool-icons (list '("typeset.xpm" "typeset")))
-  ;(define tool-names (list "Typeset"))
-  )

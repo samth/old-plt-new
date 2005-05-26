@@ -1,8 +1,0 @@
-document, type all fn's
-
-top-level
-structures
-classes
-units
-
-group all the associate-X functions (label, set-var, lambda, term)
